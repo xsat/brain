@@ -9,6 +9,7 @@ namespace Brain;
  */
 class Analyzer
 {
-    public function analyze(): void {
+    public function analyze(): void
+    {
     }
 }

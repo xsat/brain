@@ -9,9 +9,11 @@ namespace Brain;
  */
 class Memory
 {
-    public function save(): void {
+    public function save(): void
+    {
     }
 
-    public function get(): void {
+    public function get(): void
+    {
     }
 }

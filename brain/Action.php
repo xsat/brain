@@ -9,6 +9,7 @@ namespace Brain;
  */
 class Action
 {
-    public function act(): void {
+    public function act(): void
+    {
     }
 }

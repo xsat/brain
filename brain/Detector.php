@@ -9,6 +9,7 @@ namespace Brain;
  */
 class Detector
 {
-    public function detect(): void {
+    public function detect(): void
+    {
     }
 }

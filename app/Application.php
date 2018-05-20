@@ -9,7 +9,8 @@ namespace App;
  */
 class Application
 {
-    public function run(): void {
+    public function run(): void
+    {
 
     }
 }
